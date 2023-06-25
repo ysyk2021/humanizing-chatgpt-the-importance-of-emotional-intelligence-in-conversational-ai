@@ -17,6 +17,6 @@
 17. Emotional chatbot responses
 18. Social skills in AI
 19. Conversational AI and customer satisfaction
-20. Emotional intelligence and machine learning.
+20. Emotional intelligence and machine learning
 
 
