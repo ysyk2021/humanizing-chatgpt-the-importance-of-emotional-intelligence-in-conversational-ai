@@ -10,5 +10,4 @@ We will also examine the ethical considerations surrounding emotional intelligen
 
 Overall, this book provides an overview of the importance of emotional intelligence in conversational AI and its impact on humanizing interactions between machines and humans. We hope that this book will be useful for anyone interested in learning more about the potential of conversational AI and emotional intelligence to improve user experiences.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.

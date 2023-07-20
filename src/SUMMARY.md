@@ -1,7 +1,6 @@
 # Summary
 
 - [Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Explanation of conversational AI and its importance](chapter-1-2.md)
   - [The role of emotional intelligence in conversational AI](chapter-1-3.md)
 - [Chapter 1: Understanding Emotional Intelligence](chapter-2.md)
