@@ -1,5 +1,3 @@
-Conclusion and Future Outlook
-=============================================================================================
 
 As we have explored in this book, emotionally intelligent conversational AI has the potential to revolutionize communication and mental health treatment. In this final chapter, we will summarize the key points of our exploration and discuss the future outlook for emotionally intelligent conversational AI.
 

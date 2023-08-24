@@ -1,5 +1,3 @@
-Chapter 5: Challenges in Developing Emotionally Intelligent Conversational AI
-=============================================================================
 
 In this chapter, we will discuss the challenges that arise when developing emotionally intelligent conversational AI. While incorporating emotional intelligence into chatbots can lead to more personalized and empathetic interactions with users, it also presents several challenges that need to be addressed.
 

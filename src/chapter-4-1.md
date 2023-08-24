@@ -1,5 +1,3 @@
-What is Empathy and Why it is Important in Communication
-=================================================================================================
 
 Empathy is the ability to understand and share the feelings of another person. It involves recognizing and connecting with the emotions and experiences of others, and responding in a supportive and compassionate manner. In this chapter, we will explore what empathy is and why it is important in communication.
 

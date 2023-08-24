@@ -1,4 +1,3 @@
-# The Role of Emotional Intelligence in Conversational AI
 
 ## Introduction to Emotional Intelligence in Conversational AI
 

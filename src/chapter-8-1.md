@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have discussed the importance of emotional intelligence in conversational AI and its potential to transform the way we interact with technology. Incorporating emotional intelligence into chatbots can lead to more personalized and empathetic interactions with users, but it also presents several technical and ethical challenges that must be addressed.
 

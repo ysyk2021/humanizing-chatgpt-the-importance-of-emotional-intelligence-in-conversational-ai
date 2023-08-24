@@ -1,5 +1,3 @@
-Chapter 4: Developing Conversational AI with Emotional Intelligence
-===================================================================
 
 Developing conversational AI with emotional intelligence requires careful consideration of design principles and strategies. In this chapter, we will explore strategies for developing emotionally intelligent conversational AI, best practices for designing conversational AI with emotional intelligence, and case studies of companies that have successfully implemented emotionally intelligent conversational AI.
 

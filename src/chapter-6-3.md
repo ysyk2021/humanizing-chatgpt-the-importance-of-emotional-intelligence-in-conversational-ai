@@ -1,5 +1,3 @@
-Potential Risks of Emotionally Intelligent Conversational AI and How to Mitigate Them
-====================================================================================================================================================================
 
 In this chapter, we will discuss the challenges in developing emotionally intelligent conversational AI and potential risks that come with it. Incorporating emotional intelligence into chatbots can lead to more personalized and empathetic interactions with users, but it also presents several technical and ethical challenges that must be addressed.
 

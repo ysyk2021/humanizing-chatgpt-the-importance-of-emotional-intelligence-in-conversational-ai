@@ -1,5 +1,3 @@
-Chapter 2: Emotion Recognition in Conversational AI
-===================================================
 
 Emotion recognition technology has the potential to improve user experience and enhance communication in conversational AI. In this chapter, we will provide an overview of emotion recognition technology, explore how it can be used in conversational AI, and discuss the benefits of incorporating emotion recognition in conversational AI.
 

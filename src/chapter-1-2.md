@@ -1,4 +1,3 @@
-# Explanation of Conversational AI and Its Importance
 
 ## Introduction to Conversational AI
 

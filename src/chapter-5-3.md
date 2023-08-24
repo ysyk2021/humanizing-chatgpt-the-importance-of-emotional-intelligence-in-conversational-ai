@@ -1,5 +1,3 @@
-Case Studies of Companies That Have Successfully Implemented Emotionally Intelligent Conversational AI
-===========================================================================================================================================================================
 
 In this chapter, we will explore case studies of companies that have successfully implemented emotionally intelligent conversational AI. These companies have recognized the importance of emotional intelligence in creating more human-like interactions with users and have incorporated it into their chatbots.
 

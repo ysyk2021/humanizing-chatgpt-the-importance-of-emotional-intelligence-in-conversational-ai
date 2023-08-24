@@ -1,4 +1,3 @@
-# Introduction
 
 Welcome to "Humanizing ChatGPT: The Importance of Emotional Intelligence in Conversational AI." This book is about the role that emotional intelligence plays in conversational AI and how it can help create better interactions between machines and humans.
 

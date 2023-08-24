@@ -1,5 +1,3 @@
-Best Practices for Designing Conversational AI with Emotional Intelligence
-===============================================================================================================================================
 
 In this chapter, we will discuss the best practices for designing conversational AI with emotional intelligence. Incorporating emotional intelligence into chatbots can lead to more personalized and empathetic interactions with users, but it also presents several technical and ethical challenges that must be addressed.
 

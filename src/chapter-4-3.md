@@ -1,5 +1,3 @@
-Benefits of Empathetic Conversational AI
-=================================================================================
 
 Empathy is a critical component of emotional intelligence, and it can also be integrated into conversational AI to improve user experience. In this chapter, we will explore the benefits of empathetic conversational AI.
 

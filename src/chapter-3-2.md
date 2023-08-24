@@ -1,5 +1,3 @@
-How Emotion Recognition Can be Used in Conversational AI
-=============================================================================================================
 
 Emotion recognition technology can be used to improve user experience and enhance communication in conversational AI. In this chapter, we will explore some of the ways emotion recognition can be used in conversational AI.
 

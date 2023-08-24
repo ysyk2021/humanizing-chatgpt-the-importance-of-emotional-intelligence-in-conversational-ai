@@ -1,5 +1,3 @@
-Importance of Emotional Intelligence in Communication
-======================================================================================================
 
 Emotional intelligence (EI) is essential for effective communication. When individuals have high levels of EI, they are better equipped to recognize and manage their own emotions, as well as understand the emotions and experiences of others. This leads to more successful interactions and stronger relationships.
 

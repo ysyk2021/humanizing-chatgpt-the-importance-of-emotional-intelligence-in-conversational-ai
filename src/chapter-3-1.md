@@ -1,5 +1,3 @@
-Overview of Emotion Recognition Technology
-===============================================================================================
 
 Emotion recognition technology is a rapidly advancing field that involves the use of machine learning algorithms to detect and interpret human emotions through facial expressions, voice tone, and other nonverbal cues. In recent years, emotion recognition has been increasingly incorporated into conversational AI to improve user experience. In this chapter, we will provide an overview of emotion recognition technology.
 

@@ -1,5 +1,3 @@
-Chapter 3: Empathy in Conversational AI
-=======================================
 
 Empathy is a crucial component of emotional intelligence, and it can also be integrated into conversational AI to improve user experience. In this chapter, we will explore what empathy is and why it is important in communication, how empathy can be integrated into conversational AI, and the benefits of empathetic conversational AI.
 

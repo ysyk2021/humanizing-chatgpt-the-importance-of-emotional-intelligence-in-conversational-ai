@@ -1,5 +1,3 @@
-Definition of Emotional Intelligence
-=====================================================================================
 
 Emotional intelligence (EI) refers to the ability to recognize and manage emotions in oneself and others. It involves several key components, including self-awareness, self-regulation, motivation, empathy, and social skills.
 
