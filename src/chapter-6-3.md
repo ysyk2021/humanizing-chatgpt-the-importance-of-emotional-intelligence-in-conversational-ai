@@ -1,5 +1,4 @@
-Chapter: Potential Risks of Emotionally Intelligent Conversational AI and How to Mitigate Them
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the potential risks associated with emotionally intelligent conversational AI and discuss strategies to mitigate these risks. While emotional intelligence can enhance user experiences, it is crucial to address concerns related to privacy, bias, and ethical implications.
 

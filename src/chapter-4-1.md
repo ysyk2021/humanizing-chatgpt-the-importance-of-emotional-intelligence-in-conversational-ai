@@ -1,5 +1,4 @@
-Chapter: What is Empathy and Why It is Important in Communication
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the concept of empathy and its significance in communication. We delve into how empathy enhances understanding, connection, and effective communication in various contexts.
 

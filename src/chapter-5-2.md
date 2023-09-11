@@ -1,5 +1,4 @@
-Chapter: Best Practices for Designing Conversational AI with Emotional Intelligence
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we outline the best practices for designing conversational AI systems with emotional intelligence. These practices provide guidelines for developers to create AI systems that exhibit empathy, understand emotions, and engage in more human-like conversations. By incorporating these best practices, we can ensure that conversational AI is designed to foster meaningful connections and enhance user experiences.
 

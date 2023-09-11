@@ -1,5 +1,4 @@
-Chapter: Different Aspects of Emotional Intelligence
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the various aspects and dimensions of emotional intelligence that contribute to humanizing conversational AI. By understanding these different facets, developers can design AI systems that effectively perceive, understand, and respond to emotions, creating more empathetic and emotionally intelligent interactions.
 

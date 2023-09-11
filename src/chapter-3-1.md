@@ -1,5 +1,4 @@
-Chapter: Overview of Emotion Recognition Technology
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of emotion recognition technology and its relevance in conversational AI. Emotion recognition plays a crucial role in enabling AI systems to understand and respond to human emotions accurately. Let's explore the key components and techniques involved in emotion recognition technology.
 

@@ -1,5 +1,4 @@
-Chapter: Importance of Emotional Intelligence in Communication
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the significance of emotional intelligence in communication and how it contributes to humanizing conversational AI. Understanding and leveraging emotional intelligence in communication is crucial for creating AI systems that can effectively perceive, understand, and respond to users' emotions, leading to more meaningful and empathetic interactions.
 

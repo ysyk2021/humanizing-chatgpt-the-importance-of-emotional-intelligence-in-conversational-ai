@@ -1,5 +1,4 @@
-Chapter: Conclusion and Future Outlook
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we reflect on the importance of emotional intelligence in conversational AI and explore its future outlook. Emotionally intelligent AI has the potential to transform human-machine interactions, fostering more meaningful connections and improving user experiences. Let's summarize the key insights gained from this book and discuss the promising developments on the horizon.
 

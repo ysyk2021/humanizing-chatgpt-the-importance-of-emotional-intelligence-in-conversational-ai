@@ -1,5 +1,4 @@
-Chapter: Definition of Emotional Intelligence
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the concept of emotional intelligence and its significance in the context of conversational AI. Understanding and defining emotional intelligence is crucial for developing AI systems that can effectively recognize and respond to users' emotions, ultimately humanizing the conversational experience.
 
